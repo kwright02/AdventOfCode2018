@@ -53,7 +53,7 @@ public class day1 {
 		 * 
 		 * 
 		 */
-		System.out.println("Starting part 2");
+		System.out.println("Starting part 2, this takes a LONG time");
 		BufferedReader br2 = null;
 		try {
 			br2 = new BufferedReader(new FileReader(input2));
